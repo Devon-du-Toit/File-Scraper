@@ -1,0 +1,9 @@
+{
+  "input_dirs": [
+    "C:\\Users\\YOUR_USERNAME\\path\\to\\folder1",
+    "C:\\Users\\YOUR_USERNAME\\path\\to\\folder2",
+    "C:\\Users\\YOUR_USERNAME\\path\\to\\folder2"
+  ],
+  "file_extensions": [".jpg", ".jpeg", ".png"],
+  "output_dir": "my_new_output_folder"
+}
